@@ -15,6 +15,6 @@ You, of course, need Steamodded and Lovely. Go to your mods folder (type %AppDat
 - Blueprint/Brainstorm (should work)
 - Cryptid (untested)
   
-# CURRENT VERSION: 1.00.1
+# CURRENT VERSION: 1.1
 
-- Patched NDev, should now not crash the game.
+- Added Micro Joker
