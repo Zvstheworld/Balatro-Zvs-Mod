@@ -8,6 +8,13 @@ A fun Balatro mod made by Zvs. To use, you will need Steamodded, Lovely Injector
 
 You, of course, need Steamodded and Lovely. Go to your mods folder (type %AppData$/Balatro into the File Explorer search bar on Windows) and insert the ZvsModPack file from the zip. Inside the file, there should be all the mod content, and NOT another folder.
 
-# CURRENT VERSION: 1.0
+# WORKS WITH:
 
-- Released 20 jokers, each with unique references and abilities.
+- Yahimod (overall fun combo)
+- Handy
+- Blueprint/Brainstorm (should work)
+- Cryptid (untested)
+  
+# CURRENT VERSION: 1.00.1
+
+- Patched NDev, should now not crash the game.
