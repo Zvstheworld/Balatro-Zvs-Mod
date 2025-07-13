@@ -4,7 +4,7 @@ SMODS.Joker{ --NDev
     config = {
         extra = {
             odds = 10,
-            j_egg_joker = 0
+            j_egg = 0
         }
     },
     loc_txt = {
@@ -41,7 +41,7 @@ SMODS.Joker{ --NDev
                     G.GAME.joker_buffer = G.GAME.joker_buffer + 1
                     G.E_MANAGER:add_event(Event({
                         func = function()
-                            local joker_card = create_card('Joker', G.jokers, nil, nil, nil, nil, 'j_egg_joker')
+                            local joker_card = create_card('Joker', G.jokers, nil, nil, nil, nil, 'j_egg')
                             joker_card:add_to_deck()
                             G.jokers:emplace(joker_card)
                             G.GAME.joker_buffer = 0
