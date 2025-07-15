@@ -15,6 +15,7 @@ You, of course, need Steamodded and Lovely. Go to your mods folder (type %AppDat
 - Blueprint/Brainstorm (should work)
 - Cryptid (untested)
   
-# CURRENT VERSION: 1.1
+# CURRENT VERSION: 1.2
 
-- Added Micro Joker
+- Added No B*tches? Joker
+- Removed Redprint and Green Needle, overall buggy jokers that don't belong. That doesn't mean Blueprint-styled jokers are out the window.
