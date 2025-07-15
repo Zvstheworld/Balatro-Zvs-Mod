@@ -1,7 +1,7 @@
 # Balatro: Zvs Mod
 A fun Balatro mod made by Zvs. To use, you will need Steamodded, Lovely Injector, and knowledge on how to add mods. This has:
 
-- 20 Jokers
+- 20+ Jokers
 - Nothing else so far...
 
 # TO INSTALL:
