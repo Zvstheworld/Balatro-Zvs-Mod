@@ -13,6 +13,10 @@ You, of course, need Steamodded and Lovely. Go to your mods folder (type %AppDat
 - Yahimod (overall fun combo)
 - Handy
 - Blueprint/Brainstorm (should work)
+
+# DOES NOT WORK WITH:
+
+- Cryptid
   
 # CURRENT VERSION: 1.2
 
